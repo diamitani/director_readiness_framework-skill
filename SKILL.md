@@ -1,3 +1,9 @@
+---
+name: director-readiness-framework
+description: >
+  This framework helps you coach Patrick when he's operating below his target altitude, and recognize when he's operating above it. Use this skill when working with director readiness framework tasks or workflows.
+---
+
 # Director Readiness Framework
 
 ## What "Director-Ready" Looks Like at Patrick's Level
